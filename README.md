@@ -21,7 +21,7 @@ Seleccionar 1000 ubicaciones óptimas de entre ~36,000 secciones censales en Esp
 
 ## Arquitectura del Algoritmo
 
-El algoritmo SEED está compuesto por **4 capas** que evalúan diferentes dimensiones:
+El algoritmo SEED (residence-mvp/notebooks/03_seed_algorithm.ipynb) está compuesto por **4 capas** que evalúan diferentes dimensiones:
 
 ### **Capa 1: Base Territorial**
 - **Espacio de decisión**: 36,000 secciones censales
@@ -366,3 +366,4 @@ crear_mapa_gradiente(df, 'SEED_score',
 │  ubicaciones óptimas    │
 └─────────────────────────┘
 ```
+
