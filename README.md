@@ -3,8 +3,8 @@
 > [!IMPORTANT]
 > 🏆 **Algoritmo Ganador**: Este proyecto ha sido galardonado con el **Excellence Award de Akademia Future Builders**, destacando por su precisión técnica y su impacto en la resolución de desafíos sociales reales.
 > > [!IMPORTANT]
-> El notebook del algoritmo se encuentra en /seed-algorithm/notebooks/03_seed_algorithm.ipynb.
-> > 
+> El notebook del algoritmo se encuentra en /seed-algorithm/notebooks/03_seed_algorithm.ipynb
+> > [!IMPORTANT]
 > El informe técnico relacionado con el desarrollo del algoritmo se encuentra en /seed-algorithm/SEED_tech_report.pdf
 
 ## 1. Descripción General
@@ -109,5 +109,6 @@ El algoritmo requiere las siguientes variables por sección censal:
 ---
 
 © 2026 Proyecto Ganador del Excellence Award en Akademia Future Builders.
+
 
 
